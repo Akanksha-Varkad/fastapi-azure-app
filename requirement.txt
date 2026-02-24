@@ -1,4 +1,8 @@
-﻿annotated-doc==0.0.4
+
+fastapi~=0.115
+uvicorn[standard]~=0.30
+gunicorn~=21.2
+annotated-doc==0.0.4
 annotated-types==0.7.0
 anyio==4.12.1
 click==8.3.1
@@ -19,3 +23,4 @@ watchfiles==1.1.1
 websockets==16.0
 uvicorn
 gunicorn
+
